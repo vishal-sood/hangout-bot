@@ -1,0 +1,17 @@
+{
+  "name": "hangout-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Sood (vishal.sood@oncehub.com)",
+  "license": "ISC",
+  "dependencies": {
+    "cron-job-manager": "^2.1.2",
+    "googleapis": "^46.0.0",
+    "https": "^1.0.0",
+    "url": "^0.11.0"
+  }
+}
